@@ -22,7 +22,7 @@ print(f"The interger value of {num1} is {can}")
 
 #output
 
-![Image](https://github.com/user-attachments/assets/9ee56bac-aa25-4a62-8b4d-d7e9a19b48ef)
+![Image](https://github.com/user-attachments/assets/ff355801-ba72-42ad-bb28-1438d8830955)
 
 #result
 ```
