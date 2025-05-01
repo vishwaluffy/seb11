@@ -25,7 +25,7 @@ else:
 
 #output
 
-![Image](https://github.com/user-attachments/assets/b46be0d7-80d9-4e7c-a003-61e619b55243)
+![Image](https://github.com/user-attachments/assets/9ee56bac-aa25-4a62-8b4d-d7e9a19b48ef)
 
 #result
 ```
