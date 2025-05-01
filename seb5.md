@@ -28,7 +28,7 @@ print("d:",d)
 
 #output
 
-![Image](https://github.com/user-attachments/assets/ff355801-ba72-42ad-bb28-1438d8830955)
+![Image](https://github.com/user-attachments/assets/15f2d369-cff6-4538-a2a6-94a438ec2634)
 
 #result
 ```
